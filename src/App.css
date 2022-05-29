@@ -4,7 +4,7 @@ body{
 }
 main{
   width: 300px;
-  margin: 60px auto 0;
+  margin: 66px auto 0;
 }
 div.board{
   display: grid;
